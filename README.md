@@ -9,3 +9,7 @@ Manifestos maravilhosos
   * http://agilemanifesto.org/ 
 * Responsive
   * http://www.responsive.org/manifesto/ 
+* Holstee
+  * https://www.holstee.com/pages/about
+* Expert Enought
+  * http://expertenough.com/538/the-expert-enough-manifesto 
